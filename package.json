@@ -1,0 +1,23 @@
+{
+  "name": "pricemind",
+  "version": "1.0.0",
+  "description": "Universal Price Memory Engine with AI",
+  "scripts": {
+    "dev": "concurrently \"npm run dev:server\" \"npm run dev:client\"",
+    "dev:server": "node --watch server/index.js",
+    "dev:client": "cd client && node ../node_modules/vite/bin/vite.js --port 3001",
+    "start": "node server/index.js",
+    "build": "cd client && node ../node_modules/vite/bin/vite.js build"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "bcryptjs": "^2.4.3",
+    "jsonwebtoken": "^9.0.2",
+    "multer": "^1.4.5-lts.1",
+    "openai": "^4.28.0",
+    "dotenv": "^16.4.1",
+    "concurrently": "^8.2.2",
+    "vite": "^5.1.0"
+  }
+}
