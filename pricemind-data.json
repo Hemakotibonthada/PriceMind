@@ -1,0 +1,108 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Groceries",
+      "icon": "🛒",
+      "created_at": "2026-02-22T18:12:14.437Z"
+    },
+    {
+      "id": 2,
+      "name": "Electronics",
+      "icon": "📱",
+      "created_at": "2026-02-22T18:12:14.439Z"
+    },
+    {
+      "id": 3,
+      "name": "Clothing",
+      "icon": "👕",
+      "created_at": "2026-02-22T18:12:14.439Z"
+    },
+    {
+      "id": 4,
+      "name": "Home & Garden",
+      "icon": "🏠",
+      "created_at": "2026-02-22T18:12:14.440Z"
+    },
+    {
+      "id": 5,
+      "name": "Health & Beauty",
+      "icon": "💊",
+      "created_at": "2026-02-22T18:12:14.441Z"
+    },
+    {
+      "id": 6,
+      "name": "Automotive",
+      "icon": "🚗",
+      "created_at": "2026-02-22T18:12:14.442Z"
+    },
+    {
+      "id": 7,
+      "name": "Services",
+      "icon": "🔧",
+      "created_at": "2026-02-22T18:12:14.442Z"
+    },
+    {
+      "id": 8,
+      "name": "Food & Dining",
+      "icon": "🍕",
+      "created_at": "2026-02-22T18:12:14.443Z"
+    },
+    {
+      "id": 9,
+      "name": "Utilities",
+      "icon": "💡",
+      "created_at": "2026-02-22T18:12:14.444Z"
+    },
+    {
+      "id": 10,
+      "name": "Entertainment",
+      "icon": "🎬",
+      "created_at": "2026-02-22T18:12:14.445Z"
+    },
+    {
+      "id": 11,
+      "name": "Travel",
+      "icon": "✈️",
+      "created_at": "2026-02-22T18:12:14.445Z"
+    },
+    {
+      "id": 12,
+      "name": "Education",
+      "icon": "📚",
+      "created_at": "2026-02-22T18:12:14.447Z"
+    },
+    {
+      "id": 13,
+      "name": "Fuel & Energy",
+      "icon": "⛽",
+      "created_at": "2026-02-22T18:12:14.448Z"
+    },
+    {
+      "id": 14,
+      "name": "Insurance",
+      "icon": "🛡️",
+      "created_at": "2026-02-22T18:12:14.450Z"
+    },
+    {
+      "id": 15,
+      "name": "Subscriptions",
+      "icon": "📋",
+      "created_at": "2026-02-22T18:12:14.450Z"
+    }
+  ],
+  "categories_seq": 15,
+  "users": [
+    {
+      "id": 1,
+      "email": "mr.hknaidu@gmail.com",
+      "password": "$2a$10$ZCBelaSkd525WVafpFC5IerS/swhlxBoB2poFxsYdlxN4uHl3DRHC",
+      "name": "Hema Koteswara Rao Bonthada",
+      "location": "Hyderabad, India",
+      "currency": "USD",
+      "is_premium": 0,
+      "created_at": "2026-02-22T18:17:21.130Z"
+    }
+  ],
+  "users_seq": 1
+}

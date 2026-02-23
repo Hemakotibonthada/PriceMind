@@ -1,0 +1,13 @@
+{
+  "name": "PriceMind",
+  "short_name": "PriceMind",
+  "description": "Log prices, analyze fairness, track spending, make smarter money decisions.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#070d1a",
+  "theme_color": "#3b82f6",
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "64x64",   "type": "image/svg+xml", "purpose": "any maskable" },
+    { "src": "/icon.svg",    "sizes": "512x512",  "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
